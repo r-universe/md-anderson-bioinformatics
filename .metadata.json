@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "RPPASPACE",
+    "oncran": true
+  }
+]
