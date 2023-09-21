@@ -1,0 +1,20 @@
+[
+  {
+    "package": "NGCHMDemoData",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData",
+    "via": ["NGCHM"],
+    "from": "NGCHM"
+  },
+  {
+    "package": "NGCHMSupportFiles",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles",
+    "via": ["NGCHM"],
+    "from": "NGCHM"
+  },
+  {
+    "package": "tsvio",
+    "url": "https://github.com/MD-Anderson-Bioinformatics/tsvio",
+    "via": ["NGCHM"],
+    "from": "NGCHM"
+  }
+]
