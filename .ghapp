@@ -1,0 +1,10 @@
+{
+  "id": 43774553,
+  "created_at": "2023-11-07T21:19:14.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["NGCHMDemoData", "NGCHMSupportFiles", "MD-Anderson-Bioinformatics.r-universe.dev"]
+}
