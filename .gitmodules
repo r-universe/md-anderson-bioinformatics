@@ -1,11 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/md-anderson-bioinformatics/md-anderson-bioinformatics.r-universe.dev
 	branch = HEAD
-[submodule "RPPASPACE"]
-	path = RPPASPACE
-	url = https://github.com/md-anderson-bioinformatics/rppaspace
-	subdir = RPPASPACE
-[submodule "tsvio"]
-	path = tsvio
-	url = https://github.com/md-anderson-bioinformatics/tsvio
+[submodule "NGCHMDemoData"]
+	path = NGCHMDemoData
+	url = https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData
+[submodule "NGCHMSupportFiles"]
+	path = NGCHMSupportFiles
+	url = https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles
