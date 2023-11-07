@@ -8,3 +8,6 @@
 [submodule "NGCHMSupportFiles"]
 	path = NGCHMSupportFiles
 	url = https://github.com/MD-Anderson-Bioinformatics/NGCHMSupportFiles
+[submodule "tsvio"]
+	path = tsvio
+	url = https://github.com/MD-Anderson-Bioinformatics/tsvio
