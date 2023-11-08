@@ -11,6 +11,7 @@
 [submodule "rppaspace"]
 	path = rppaspace
 	url = https://github.com/MD-Anderson-Bioinformatics/rppaspace
+	subdir = RPPASPACE
 [submodule "tsvio"]
 	path = tsvio
 	url = https://github.com/MD-Anderson-Bioinformatics/tsvio
