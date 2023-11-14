@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/md-anderson-bioinformatics/md-anderson-bioinformatics.r-universe.dev
 	branch = HEAD
+[submodule "NGCHM"]
+	path = NGCHM
+	url = https://github.com/MD-Anderson-Bioinformatics/NGCHM-R
 [submodule "NGCHMDemoData"]
 	path = NGCHMDemoData
 	url = https://github.com/MD-Anderson-Bioinformatics/NGCHMDemoData
